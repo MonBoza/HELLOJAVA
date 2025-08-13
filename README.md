@@ -145,14 +145,3 @@ SINCE 30 minutes AGO
 FACET error.message
 LIMIT 10
 ```
-
----
-
-## Optional: Add to README
-If this is a template for others, copy these steps into your main `README.md`, minus the license key. Keep the `.env` pattern so secrets never hit git.
-
----
-
-### Attribution
-Created for demo and interview prep purposes. Replace names/paths as needed.
-
